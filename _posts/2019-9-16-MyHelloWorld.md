@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Edited Post HEllow!
+title: My first Post on Github!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Halo dunia!
+
+Saya Agfian! dan ini adalah postingan pertama saya di github.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
